@@ -50,9 +50,9 @@ body {
 h1 {
 	text-align: center;
 	font-size: 3em;
+	text-transform: uppercase;
 }
 p {
 	padding-left: 20%;
 	font-size: 1.5em;
-	border: 1px solid black;
 }
